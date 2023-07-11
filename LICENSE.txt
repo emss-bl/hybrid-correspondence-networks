@@ -1,0 +1,5 @@
+Thank you for downloading the MBOX to Gephi Python script. 
+
+The script is freely available for non-commercial use provided an attribution is made. Suggested wording:
+
+'This script was written by Callum McKean at the British Library as part of a Coleridge Research Fellowship undertaken between September 2022 and March 2023.
